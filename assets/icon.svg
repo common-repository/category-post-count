@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#000000" id="canvas_background" height="130" width="130" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path transform="rotate(-9.69383, 65, 64)" stroke-dasharray="5,2,2,2,2,2" id="svg_2" d="m12.999985,42.460716l30.460705,-30.460716l43.078487,0l30.460838,30.460716l0,43.078537l-30.460838,30.460747l-43.078487,0l-30.460705,-30.460747l0,-43.078537z" stroke-width="10.5" stroke="#ffffff" fill="#ffff00"/>
+  <text transform="matrix(0.899913, 0, 0, 1.2507, 16.9073, -11.8562)" font-weight="bold" xml:space="preserve" text-anchor="left" font-family="Helvetica, Arial, sans-serif" font-size="43" id="svg_1" y="76.580626" x="6.947764" stroke-width="2" stroke="#000" fill="#000000">CPC</text>
+ </g>
+</svg>
